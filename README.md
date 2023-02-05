@@ -13,3 +13,7 @@ Download the following installer muna sir:
 1. Composer https://getcomposer.org/download/
 2. xampp (latest version) for Windows https://www.apachefriends.org/
 
+Installation:
+1. Install muna xampp sir
+2. Once installed na sir, 
+
