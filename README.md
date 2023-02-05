@@ -8,3 +8,8 @@ Features as of today
 - Profile Updates
 - Admin Section(no data yet)
 
+Download the following installer muna sir:
+
+1. Composer https://getcomposer.org/download/
+2. xampp (latest version) for Windows https://www.apachefriends.org/
+
