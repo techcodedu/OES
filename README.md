@@ -16,4 +16,5 @@ Download the following installer muna sir:
 Installation:
 1. Install muna xampp sir
 2. Once installed na sir, 
+
 ![xampp](https://github.com/techcodedu/OES/blob/main/others/xampp.PNG)
