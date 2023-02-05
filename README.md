@@ -18,3 +18,7 @@ Installation:
 2. Once installed na sir, "Start" mo "Apache" and "MySQL"
 
 ![xampp](https://github.com/techcodedu/OES/blob/main/others/xampp.PNG)
+
+3. Once na "started" na sir, open ka ng browswer tpos type po ito sir localhost/phpmyadmin sa URL
+4. Pag anjan kna sir click mo ung "Databases" tpos gwin mo ung database name sir na "gestaac_db"
+![xampp](https://github.com/techcodedu/OES/blob/main/others/createdb.PNG)   
